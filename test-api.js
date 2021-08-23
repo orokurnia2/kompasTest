@@ -22,7 +22,7 @@ describe('request.agent(app)', function() {
   it('should save cookies', function(done) {
     agent
     .get('/')
-    .expect('set-cookie', 'cookie=hey; Path=/', done);
+    .expect('set-cookie', 'cookie=hey; Path=/', dongite);
   });
 
   it('should send cookies', function(done) {
