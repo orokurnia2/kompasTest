@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "puppeteer": "^10.2.0",
+    "puppeteer-extra-plugin-recaptcha": "^3.4.0"
+  }
+}
