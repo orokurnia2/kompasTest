@@ -2,5 +2,8 @@
   "dependencies": {
     "puppeteer": "^10.2.0",
     "puppeteer-extra-plugin-recaptcha": "^3.4.0"
+  },
+  "devDependencies": {
+    "supertest": "^6.1.6"
   }
 }
