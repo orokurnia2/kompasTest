@@ -1,9 +1,13 @@
 {
+  "scripts": {
+    "test": "jest --watchAll"
+  },
   "dependencies": {
     "puppeteer": "^10.2.0",
     "puppeteer-extra-plugin-recaptcha": "^3.4.0"
   },
   "devDependencies": {
+    "jest": "^27.0.6",
     "supertest": "^6.1.6"
   }
 }
